@@ -185,7 +185,6 @@ Waveforms confirmed:
 
 ##  Project Structure
 
-```
 rtl/
    uart_top.v
    tx.v
@@ -198,6 +197,4 @@ tb/
 docs/
    block diagrams
    simulation waveforms
-```
-
 ---
