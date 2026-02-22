@@ -186,15 +186,18 @@ Waveforms confirmed:
 ##  Project Structure
 
 rtl/
+
    uart_top.v
    tx.v
    rx.v
    baud_gen.v
 
 tb/
+
    uart_loopback_tb.v
 
 docs/
+
    block diagrams
    simulation waveforms
 ---
