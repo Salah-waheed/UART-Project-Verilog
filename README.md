@@ -184,20 +184,7 @@ Waveforms confirmed:
 ---
 
 ##  Project Structure
-
-rtl/
-
-   uart_top.v
-   tx.v
-   rx.v
-   baud_gen.v
-
-tb/
-
-   uart_loopback_tb.v
-
-docs/
-
-   block diagrams
-   simulation waveforms
+* `/rtl`: Synthesizable Verilog source files for all modules.
+* `/sim`: Testbench files and simulation configurations.
+* `/docs`: Project report and detailed timing diagrams.
 ---
