@@ -1,0 +1,20 @@
+# Vivado temporary files and logs
+*.jou
+*.log
+*.pb
+*.backup
+*.str
+.Xil/
+
+# Simulation files
+xsim.dir/
+*.vcd
+*.wdb
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignored folders
+/sim/.Xil/
+/sim/xsim.dir/
