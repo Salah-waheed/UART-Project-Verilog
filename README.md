@@ -84,7 +84,7 @@ Because UART communication is asynchronous, both devices must agree on baud rate
 
 ##  UART Block Diagram
 
-![UART Block Diagram](docs/uart_block.png)
+![alt text](<Screenshot (206).png>)
 
 Main modules:
 
@@ -180,18 +180,6 @@ Waveforms confirmed:
 * Mid-bit sampling accuracy
 * Proper `rx_done` behavior
 * Matching TX and RX data
-
----
-
-##  Simulation Waveforms
-
-### Example Waveforms
-
-![Waveform 1](docs/wave_115200.png)
-
-![Waveform 2](docs/wave_9600.png)
-
-![Waveform 3](docs/wave_19200.png)
 
 ---
 
